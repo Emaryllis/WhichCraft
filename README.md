@@ -1,6 +1,4 @@
 # WhichCraft
 ## DISCLAIMER: THIS IS AN ESOTERIC PROGRAMMING LANGUAGE, IT IS NOT SUPPOSED TO BE USED FOR DEVELOPMENT UNLESS YOU REALLY HATE YOURSELF AND YOUR COLLEGUES
 
-SUMMON lol - Declaring a variable called lol
-
-ERASE lol - Deleting a variable called lol
+Documentation yet to be finished because I'm lazy
